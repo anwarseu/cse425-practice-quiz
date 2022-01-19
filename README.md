@@ -1,1 +1,1 @@
-##Welcome to the cse425 practice quiz project
+Welcome to the cse425 practice quiz project
